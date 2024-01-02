@@ -1,0 +1,74 @@
+[33mcommit 51413f3aeed2a393ff0cdbca85c868e6c90c2210[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mamadou Camara <camara0388@gmail.com>
+Date:   Tue Jan 2 17:36:20 2024 +0100
+
+    Fourth file was added
+
+[33mcommit 832d1eccb02862148c6def7b5d8f486e372defd2[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 493e5c4 b4d2e1b
+Author: Mamadou Camara <camara0388@gmail.com>
+Date:   Tue Jan 2 17:30:17 2024 +0100
+
+    Merge pull request #1 from mamadcamzis/my-new-branch
+    
+    My new branch
+
+[33mcommit b4d2e1bc67c489ecbd1610b8c8c9a51fb9c148e9[m[33m ([m[1;31morigin/my-new-branch[m[33m)[m
+Author: Mamadou Camara <camara0388@gmail.com>
+Date:   Tue Jan 2 17:28:42 2024 +0100
+
+    Name added as parameter
+
+[33mcommit c68ce78bdfea08643718bf17125b2305dff8321f[m
+Author: Mamadou Camara <camara0388@gmail.com>
+Date:   Tue Jan 2 16:55:12 2024 +0100
+
+    A new file was added in the new branch
+
+[33mcommit db3ca1f0e9b4e2b4fb6f14fde442668363c71fcd[m
+Author: Mamadou Camara <camara0388@gmail.com>
+Date:   Tue Jan 2 16:45:32 2024 +0100
+
+    updated second_file.py
+
+[33mcommit 493e5c4a18f11cc9ba686524a094951174b1d8b7[m
+Author: Mamadou Camara <camara0388@gmail.com>
+Date:   Tue Jan 2 16:40:25 2024 +0100
+
+    Revert "Third file"
+    
+    This reverts commit 2c755c1b982545ed9e786699d23b3685bd9d8bd6.
+
+[33mcommit d128a373c4277afdb5e875c03ad253e55f997d25[m
+Author: Mamadou Camara <camara0388@gmail.com>
+Date:   Tue Jan 2 16:40:12 2024 +0100
+
+    Revert "Fourth file was added"
+    
+    This reverts commit 313bd2175af60c75a7623ef539ee60e1a006ab4d.
+
+[33mcommit 313bd2175af60c75a7623ef539ee60e1a006ab4d[m
+Author: Mamadou Camara <camara0388@gmail.com>
+Date:   Tue Jan 2 16:37:06 2024 +0100
+
+    Fourth file was added
+
+[33mcommit 2c755c1b982545ed9e786699d23b3685bd9d8bd6[m
+Author: Mamadou Camara <camara0388@gmail.com>
+Date:   Tue Jan 2 16:36:02 2024 +0100
+
+    Third file
+
+[33mcommit 9de83af9c3807e03658d223cb8b908f5e6d41056[m[33m ([m[1;32mold-commit[m[33m)[m
+Author: Mamadou Camara <camara0388@gmail.com>
+Date:   Tue Jan 2 14:37:54 2024 +0100
+
+    Added print_hello_world function
+
+[33mcommit a27dc81c3835e309140462657a11916673733e62[m
+Author: Mamadou Camara <mamadcamzis@M343.aid.dom>
+Date:   Tue Jan 2 13:05:08 2024 +0100
+
+    first commit
+    
+    Committer: Mamadou Camara <camara0388@gmail.com>
